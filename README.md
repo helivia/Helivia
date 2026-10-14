@@ -1,16 +1,26 @@
-## Hi there 👋
+# Helivia
 
-<!--
-**helivia/Helivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acadêmica de Análise e Desenvolvimento de Sistemas. Atuo no **front-end** e no **back-end** com Java, construindo meu caminho para me tornar desenvolvedora **full stack**.
 
-Here are some ideas to get you started:
+Estou evoluindo um projeto de cada vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+**[Colega.IA](https://colega-ia.netlify.app/)**: plataforma onde empresas personalizam seus assistentes virtuais. A interface, feita com HTML, CSS e JavaScript, já está no ar. O servidor em Java vem na próxima etapa. [Ver o código](https://github.com/helivia/colega-ia)
+
+Este perfil é onde publico os meus projetos. Vou adicionando novos conforme os termino.
+
+## Tecnologias
+
+- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** Java. Próximo passo: Spring Boot
+- **Ferramentas:** Git, GitHub, VS Code
+
+## Objetivo
+
+Construir sistemas completos, do que o usuário vê na tela até o servidor, e ajudar pequenos negócios a terem presença na internet.
+
+## Contato
+
+ · [Instagram]((https://www.instagram.com/dev.helivia/))
+ 
