@@ -1,4 +1,4 @@
-# Helivia
+# Helivia Freitas Lima
 
 Acadêmica de Análise e Desenvolvimento de Sistemas. Atuo no **front-end** e no **back-end** com Java, construindo meu caminho para me tornar desenvolvedora **full stack**.
 
